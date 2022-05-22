@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Till</h1>
+<h1 align="center">Hi, I'm Till 👋</h1>
 <h3 align="center">A cloud administrator from germany</h3>
 
 - 🌱 I’m currently learning **Go**
