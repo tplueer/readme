@@ -3,15 +3,11 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [plueer.it](plueer.it)
-
-- 📝 I regularly write articles on [plueer.it/blog](plueer.it/blog)
+- 📝 I regularly write articles on [plueer.it/blog](https://www.plueer.it/blog)
 
 - 💬 Ask me about **cloud, k8s, devops, automation**
 
-- 📫 How to reach me **till@plueer.it**
-
-- 📄 Know about my experiences [plueer.it/cv](plueer.it/cv)
+- 📫 How to reach me **hello@plueer.it**
 
 - ⚡ Fun fact **It's always DNS**
 
